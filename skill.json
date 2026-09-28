@@ -1,0 +1,9 @@
+{
+  "schema_version": "v1",
+  "name": "genpark-bezier-curve-surface-evaluator-skill",
+  "version": "1.0.0",
+  "description": "Parametric polynomial curves and surfaces with de Casteljau's algorithm and bicubic B\u00e9zier patch evaluation.",
+  "entrypoint": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service"
+}
